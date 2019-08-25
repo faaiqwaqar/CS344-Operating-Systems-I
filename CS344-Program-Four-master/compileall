@@ -1,0 +1,6 @@
+#!/bin/bash
+make otp_enc
+make otp_dec
+make otp_enc_d
+make otp_dec_d
+make keygen
